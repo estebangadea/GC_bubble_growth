@@ -1,0 +1,7 @@
+maxr = 2.5e-9
+theta_in = 30
+theta_out = 90
+concentration = 0.4
+kh = 7.689e-9
+pext = 101325
+gamma = 7.2e-2
